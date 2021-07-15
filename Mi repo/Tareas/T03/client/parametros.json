@@ -1,0 +1,15 @@
+{
+  "host": "localhost",
+  "port": 12345,
+  "logo": "sprites/logo.png",
+  "fondo-1": "sprites/fondos/1.png",
+  "fondo-2": "sprites/fondos/2.png",
+  "fondo-3": "sprites/fondos/3.png",
+  "fondo-4": "sprites/fondos/4.png",
+  "mujer_aventurera": "sprites/personajes/Female adventurer/wide.png",
+  "mujer_cualquiera": "sprites/personajes/Female person/wide.png",
+  "hombre_aventurero": "sprites/personajes/Male adventurer/wide.png",
+  "hombre_cualquiera": "sprites/personajes/Male person/wide.png",
+  "robot": "sprites/personajes/Robot/wide.png",
+  "zombie": "sprites/personajes/Zombie/wide.png"
+}
